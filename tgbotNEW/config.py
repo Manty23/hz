@@ -1,0 +1,2 @@
+BOT_TOKEN = "8037264106:AAH3X-8252-cR3PTq4wSVS3zRgY9viC-B8Q"  # Замените на ваш токен
+OPENAI_API_KEY = "sk-Rn-ef8tQQlu5kCuK9gAZ0nWcVDlCejmQGgHPziAv7JhuQWDe_9I4Y-e8Q56imXSF3x-SeqqzfgE0VKkEJdkAWA"  # Замените на ваш API ключ
